@@ -1,4 +1,4 @@
-# IPL-Strategy-for-RCB
+# Indian Premier League (IPL) strategy for Royal Challengers Bengaluru (RCB).
 
 ![IPL logo](https://github.com/kiranhd/IPL-Strategy-for-RCB/blob/main/IPL_logo.png)
 
