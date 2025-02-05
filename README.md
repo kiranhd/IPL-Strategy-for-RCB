@@ -1,5 +1,6 @@
 # IPL-Strategy-for-RCB
 
+![IPL logo](https://github.com/kiranhd/IPL-Strategy-for-RCB/blob/main/IPL_logo.png)
 
 ## Project Overview
 
