@@ -10,6 +10,7 @@ This project focuses on analyzing the performance of Royal Challengers Bangalore
 The goal is to analyze player performance across various parameters, including batting, bowling, fielding, and match impact, to provide actionable recommendations for improving RCB's performance and helping them win tournaments. 
 
 The project covers:
+
 • Identifying top players by key performance metrics.
 
 • Evaluating home ground advantages and performance by venue.
@@ -24,7 +25,7 @@ The dataset includes detailed IPL match data, player statistics, venue informati
 
 Key tables used in this project:
 
-• player: Player information such as name, batting, and bowling styles.
+• **player:** Player information such as name, batting, and bowling styles.
 
 • matches: Match details like match winner, toss decisions, and venue.
 
